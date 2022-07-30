@@ -1,0 +1,34 @@
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll.config
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.pdb
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.pdb
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll.config
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.dll
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.dll
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll.config
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.DataAccessLayer.pdb
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\Infosys.QuickKart.Common.pdb
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.csproj.CopyComplete
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.DataAccessLayer\obj\Debug\Infosys.QuickKart.DataAccessLayer.pdb

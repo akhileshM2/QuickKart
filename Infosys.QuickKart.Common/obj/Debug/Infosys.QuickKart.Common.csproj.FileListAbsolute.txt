@@ -1,0 +1,15 @@
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.pdb
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.csprojResolveAssemblyReference.cache
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.dll
+C:\Users\mandeep.singh28\Documents\Visual Studio 2017\Projects\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.Common\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.dll
+D:\Infosys.QuickKart\Infosys.QuickKart.Common\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.pdb
+D:\Infosys.QuickKart\Infosys.QuickKart.Common\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.csprojResolveAssemblyReference.cache
+D:\Infosys.QuickKart\Infosys.QuickKart.Common\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.dll
+D:\Infosys.QuickKart\Infosys.QuickKart.Common\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.pdb
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.Common\bin\Debug\Infosys.QuickKart.Common.pdb
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.dll
+C:\Users\akhil\source\repos\Infosys.QuickKart\Infosys.QuickKart.Common\obj\Debug\Infosys.QuickKart.Common.pdb
